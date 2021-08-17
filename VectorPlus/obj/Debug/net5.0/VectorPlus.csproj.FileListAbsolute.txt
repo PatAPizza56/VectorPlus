@@ -1,0 +1,16 @@
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\VectorPlus.exe
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\VectorPlus.deps.json
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\VectorPlus.runtimeconfig.json
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\VectorPlus.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\VectorPlus.dll
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\ref\VectorPlus.dll
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\bin\Debug\net5.0\VectorPlus.pdb
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.AssemblyInfo.cs
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.dll
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\ref\VectorPlus.dll
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.pdb
+C:\Users\Michael\source\repos\VectorPlus\VectorPlus\obj\Debug\net5.0\VectorPlus.genruntimeconfig.cache
